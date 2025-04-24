@@ -1,0 +1,1 @@
+This repository contains a collection of 9 Python projects completed as part of the GIAIC course requirements. Each project is designed to demonstrate fundamental programming concepts and practical applications using Python, including command-line games, password generation, and web applications with Streamlit.
